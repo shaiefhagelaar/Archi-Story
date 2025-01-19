@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ee8fe2-4b3d-42cd-a792-e8f8dbc30e4e" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/Source/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Archi-story.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Archi-story.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Source_Archi_Story.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Source_Archi_Story.py" afterDir="false" />
-    </list>
+    <list default="true" id="00ee8fe2-4b3d-42cd-a792-e8f8dbc30e4e" name="Changes" comment="Base commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +127,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737244181084</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Base commit">
+      <option name="closed" value="true" />
+      <created>1737296831591</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737296831591</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Base commit">
+      <option name="closed" value="true" />
+      <created>1737296889913</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737296889913</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +159,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Base commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Base commit" />
   </component>
 </project>

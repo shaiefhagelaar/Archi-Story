@@ -37,7 +37,7 @@
 ### -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  Start of the actual code in Python -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - ###
 
 from flask import Flask, render_template, request, jsonify
-import requests  # Use this to om API-aanroepen te maken
+import requests  # Use this to call the API
 
 app = Flask(__name__)
 
