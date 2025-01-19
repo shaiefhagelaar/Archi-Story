@@ -1,0 +1,26 @@
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archipelago Web Interface</title>
+    <script>
+        async function fetchData() {
+            const requestData = { /* Add API-parameters in here */ };
+            const response = await fetch('/fetch', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(requestData)
+            });
+            const data = await response.json();
+            console.log(data);
+        }
+    </script>
+</head>
+<body>
+    <h1>Archipelago Interface</h1>
+    <button onclick="fetchData()">Fetch Data</button>
+</body>
+</html>
